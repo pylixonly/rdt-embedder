@@ -8,6 +8,7 @@ export default {
         file: 'dist.js',
         format: 'iife',
         compact: true,
+        intro: "var window = globalThis, self = globalThis;",
     },
     plugins: [
         nodeResolve(),
