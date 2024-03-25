@@ -4,7 +4,7 @@
     "bundle": "rollup --config rollup.config.mjs"
   },
   "dependencies": {
-    "react-devtools-core": "^5.0.2"
+    "react-devtools-core": "5.0.2"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
